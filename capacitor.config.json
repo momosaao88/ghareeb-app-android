@@ -1,0 +1,21 @@
+{
+  "appId": "com.example.gharibquran",
+  "appName": "غريب القرآن",
+  "webDir": "www",
+  "backgroundColor": "#fbf8f1",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    },
+    "StatusBar": {
+      "style": "LIGHT",
+      "backgroundColor": "#ffffff"
+    }
+  }
+}

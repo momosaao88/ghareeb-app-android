@@ -1,0 +1,31 @@
+{
+  "id": "./",
+  "name": "المصحف مع غريب القرآن (السراج)",
+  "short_name": "غريب القرآن",
+  "description": "المصحف الشريف برواية حفص مع معاني غريب القرآن من كتاب السراج، يعمل دون إنترنت.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#fbf8f1",
+  "theme_color": "#1f5e46",
+  "categories": ["education", "books"],
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "بحث", "short_name": "بحث", "url": "./index.html#q", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ],
+  "screenshots": [
+    { "src": "screenshots/narrow-1.png", "sizes": "824x1464", "type": "image/png", "form_factor": "narrow", "label": "معنى الكلمة عند الضغط عليها" },
+    { "src": "screenshots/narrow-2.png", "sizes": "824x1464", "type": "image/png", "form_factor": "narrow", "label": "البحث مع تمييز الكلمات" },
+    { "src": "screenshots/narrow-3.png", "sizes": "824x1464", "type": "image/png", "form_factor": "narrow", "label": "الوضع الليلي" },
+    { "src": "screenshots/wide-1.png", "sizes": "1280x800", "type": "image/png", "form_factor": "wide", "label": "عرض اللوحي والحاسوب" }
+  ]
+}

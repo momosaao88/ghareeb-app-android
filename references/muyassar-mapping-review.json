@@ -1,0 +1,4877 @@
+{
+  "sourceFile": "MuyassarGhareeb.docx",
+  "sourceMd5": "ffd3c58f51f8a69340a205b71bf1e870",
+  "sourceSha1": "1be35ad20c48b4d47dfa0bfc3d97ac7b0b3401ca",
+  "surahHeadings": 114,
+  "meaningRecords": 11358,
+  "wordAnchored": 10547,
+  "unmappedForManualReview": 811,
+  "unmapped": [
+    {
+      "s": 2,
+      "v": 3,
+      "term": "وَيُقِيمُونَ ٱلصَّلَوٰةَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 6,
+      "term": "ءَأَنذَرۡتَهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 9,
+      "term": "يُخَٰدِعُونَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 13,
+      "term": "ٱلسُّفَهَآءُ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 14,
+      "term": "مُسۡتَهۡزِءُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 16,
+      "term": "ٱشۡتَرَوُاْ ٱلضَّلَٰلَةَ بِٱلۡهُدَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 24,
+      "term": "لَن تَفۡعَلُواْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 26,
+      "term": "لَا يَسۡتَحۡيِۦٓ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 29,
+      "term": "فَسَوَّىٰهُنَّ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 30,
+      "term": "يَسۡفِكُ ٱلدِّمَآءَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 33,
+      "term": "بِأَسۡمَآئِهِمۡ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 36,
+      "term": "مَتَٰعٌ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 49,
+      "term": "يَسۡتَحۡيُونَ نِسَآءَكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 53,
+      "term": "ٱلۡفُرۡقَانَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 57,
+      "term": "ٱلسَّلۡوَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 61,
+      "term": "ٱلۡمَسۡكَنَةُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 61,
+      "term": "وَبَآءُو",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 62,
+      "term": "ٱلصَّـٰبِـِٔينَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 65,
+      "term": "خَٰسِـِٔينَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 79,
+      "term": "فَوَيۡلٞ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 83,
+      "term": "ٱلۡيَتَٰمَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 86,
+      "term": "ٱشۡتَرَوُاْ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 89,
+      "term": "جَآءَهُمۡ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 90,
+      "term": "فَبَآءُو",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 100,
+      "term": "عَهۡدٗا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 2,
+      "v": 100,
+      "term": "نَبَذَهُۥ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 2,
+      "v": 102,
+      "term": "ٱشۡتَرَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 113,
+      "term": "عَلَىٰ شَيۡءٖ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 125,
+      "term": "مَقَامِ إِبۡرَٰهِـۧمَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 125,
+      "term": "ٱلۡعَٰكِفِينَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 130,
+      "term": "يَرۡغَبُ عَن مِّلَّةِ إِبۡرَٰهِـۧمَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 135,
+      "term": "بَلۡ مِلَّةَ إِبۡرَٰهِـۧمَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 138,
+      "term": "صِبۡغَةٗ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 142,
+      "term": "مَا وَلَّىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 151,
+      "term": "يُزَكِّيكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 151,
+      "term": "ٱلۡحِكۡمَةَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 164,
+      "term": "وَٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 164,
+      "term": "ٱلۡفُلۡكِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 166,
+      "term": "ٱلَّذِينَ ٱتُّبِعُواْ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 170,
+      "term": "أَلۡفَيۡنَا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 2,
+      "v": 177,
+      "term": "ٱلۡبِرَّ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 177,
+      "term": "ٱلضَّرَّآءِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 179,
+      "term": "حَيَوٰةٞ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 187,
+      "term": "لِبَاسٞ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 189,
+      "term": "ٱلۡبِرُّ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 196,
+      "term": "فَمَا ٱسۡتَيۡسَرَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 196,
+      "term": "ٱلۡهَدۡيِ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 198,
+      "term": "كَمَا هَدَىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 203,
+      "term": "فَلَآ إِثۡمَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 213,
+      "term": "فِيهِ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 214,
+      "term": "ٱلضَّرَّآءُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 214,
+      "term": "زُلۡزِلُواْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 215,
+      "term": "وَٱلۡيَتَٰمَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 217,
+      "term": "يَسۡـَٔلُونَكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 217,
+      "term": "قِتَالٖ فِيهِ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 226,
+      "term": "فَآءُو",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 229,
+      "term": "شَيۡـًٔا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 230,
+      "term": "فَإِن طَلَّقَهَا",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 230,
+      "term": "فَإِن طَلَّقَهَا",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 231,
+      "term": "بِمَعۡرُوفٍ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 235,
+      "term": "حَتَّىٰ يَبۡلُغَ ٱلۡكِتَٰبُ أَجَلَهُۥ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 236,
+      "term": "قَدَرُهُۥ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 237,
+      "term": "أَوۡ يَعۡفُوَاْ ٱلَّذِي",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 238,
+      "term": "وَٱلصَّلَوٰةِ ٱلۡوُسۡطَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 245,
+      "term": "وَيَبۡصُۜطُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 246,
+      "term": "كُتِبَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 247,
+      "term": "ٱصۡطَفَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 253,
+      "term": "ٱلۡبَيِّنَٰتِ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 255,
+      "term": "وَلَا يَـُٔودُهُۥ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 258,
+      "term": "أَنۡ ءَاتَىٰهُ ٱللَّهُ ٱلۡمُلۡكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 258,
+      "term": "أَنَا۠ أُحۡيِۦ وَأُمِيتُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 260,
+      "term": "أَرِنِي",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 2,
+      "v": 260,
+      "term": "لِيَطۡمَئِنَّ قَلۡبِي",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 2,
+      "v": 260,
+      "term": "فَصُرۡهُنَّ إِلَيۡكَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 2,
+      "v": 260,
+      "term": "سَعۡيٗا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 2,
+      "v": 262,
+      "term": "أَذٗى﴾ التطاولَ على المُعْطَى. ﴿وَلَا خَوۡفٌ عَلَيۡهِمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 265,
+      "term": "وَابِلٞ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 269,
+      "term": "ٱلۡحِكۡمَةَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 2,
+      "v": 275,
+      "term": "يَأۡكُلُونَ ٱلرِّبَوٰاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 275,
+      "term": "لَا يَقُومُونَ﴾ أي: في الآخرةِ حينَ يُبْعَثُون مِنْ قُبورِهم. ﴿يَتَخَبَّطُهُ ٱلشَّيۡطَٰنُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 278,
+      "term": "مَا بَقِيَ مِنَ ٱلرِّبَوٰٓاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 282,
+      "term": "أَن تَضِلَّ إِحۡدَىٰهُمَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 282,
+      "term": "وَلَا تَسۡـَٔمُوٓاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 2,
+      "v": 286,
+      "term": "أَنتَ مَوۡلَىٰنَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 7,
+      "term": "أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 20,
+      "term": "وَٱلۡأُمِّيِّـۧنَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 26,
+      "term": "تَنزِعُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 28,
+      "term": "إِلَّآ أَن تَتَّقُواْ مِنۡهُمۡ تُقَىٰةٗ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 35,
+      "term": "ٱمۡرَأَتُ عِمۡرَٰنَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 42,
+      "term": "ٱصۡطَفَىٰكِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 44,
+      "term": "وَمَا كُنتَ لَدَيۡهِمۡ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 3,
+      "v": 59,
+      "term": "كَمَثَلِءَادَمَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 66,
+      "term": "حَٰجَجۡتُمۡ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 3,
+      "v": 66,
+      "term": "فِيمَا لَكُم بِهِۦ عِلۡمٞ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 3,
+      "v": 71,
+      "term": "ٱلۡحَقَّ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 3,
+      "v": 72,
+      "term": "ءَامِنُواْ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 3,
+      "v": 75,
+      "term": "\\ٱلۡأُمِّيِّـۧنَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 78,
+      "term": "يَلۡوُۥنَ أَلۡسِنَتَهُم بِٱلۡكِتَٰبِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 79,
+      "term": "رَبَّـٰنِيِّـۧنَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 81,
+      "term": "مِيثَٰقَ ٱلنَّبِيِّـۧنَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 81,
+      "term": "لَمَآ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 3,
+      "v": 86,
+      "term": "يَهۡدِي",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 3,
+      "v": 93,
+      "term": "إِلَّا مَا حَرَّمَ إِسۡرَٰٓءِيلُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 112,
+      "term": "وَبَآءُو",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 113,
+      "term": "ءَانَآءَ ٱلَّيۡلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 119,
+      "term": "وَتُؤۡمِنُونَ بِٱلۡكِتَٰبِ كُلِّهِۦ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 3,
+      "v": 119,
+      "term": "مِنَ ٱلۡغَيۡظِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 3,
+      "v": 140,
+      "term": "قَرۡحٞ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 3,
+      "v": 144,
+      "term": "ٱنقَلَبۡتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 145,
+      "term": "نُؤۡتِهِۦ مِنۡهَا",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 3,
+      "v": 149,
+      "term": "يَرُدُّوكُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 150,
+      "term": "مَوۡلَىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 153,
+      "term": "وَلَا تَلۡوُۥنَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 153,
+      "term": "فِيٓ أُخۡرَىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 164,
+      "term": "مَنَّ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 3,
+      "v": 165,
+      "term": "مُصِيبَةٞ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 3,
+      "v": 165,
+      "term": "أَصَبۡتُم مِّثۡلَيۡهَا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 3,
+      "v": 165,
+      "term": "أَنَّىٰ هَٰذَا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 3,
+      "v": 165,
+      "term": "مِنۡ عِندِ أَنفُسِكُمۡ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 3,
+      "v": 178,
+      "term": "إِنَّمَا نُمۡلِي لَهُمۡ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 3,
+      "v": 190,
+      "term": "وَٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 194,
+      "term": "وَلَاتُخۡزِنَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 3,
+      "v": 197,
+      "term": "مَأۡوَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 2,
+      "term": "ٱلۡيَتَٰمَىٰٓ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 2,
+      "term": "وَلَا تَأۡكُلُوٓاْ أَمۡوَٰلَهُمۡ إِلَىٰٓ أَمۡوَٰلِكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 3,
+      "term": "فِي ٱلۡيَتَٰمَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 8,
+      "term": "أُوْلُواْ ٱلۡقُرۡبَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 12,
+      "term": "لَهُنَّ وَلَدٞ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 12,
+      "term": "مِنۢ بَعۡدِ وَصِيَّةٖ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 12,
+      "term": "لَكُمۡ وَلَدٞ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 20,
+      "term": "إِحۡدَىٰهُنَّ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 23,
+      "term": "وَأَخَوَٰتُكُمۡ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 30,
+      "term": "ذَٰلِكَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 31,
+      "term": "سَيِّـَٔاتِكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 32,
+      "term": "نَصِيبٞ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 35,
+      "term": "بَيۡنَهُمَآ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 36,
+      "term": "وَٱلۡيَتَٰمَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 38,
+      "term": "قَرِينٗا",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 43,
+      "term": "وَأَنتُمۡ سُكَٰرَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 46,
+      "term": "وَٱسۡمَعۡ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 54,
+      "term": "ٱلۡحِكۡمَةَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 85,
+      "term": "مِنۡهَا",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 92,
+      "term": "خَطَـٔٗا",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 94,
+      "term": "فَتَبَيَّنُواْ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 100,
+      "term": "سَعَةٗ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 103,
+      "term": "فَأَقِيمُواْ ٱلصَّلَوٰةَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 104,
+      "term": "تَأۡلَمُونَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 105,
+      "term": "بِمَآ أَرَىٰكَ ٱللَّهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 108,
+      "term": "يَسۡتَخۡفُونَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 109,
+      "term": "وَكِيلٗا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 4,
+      "v": 113,
+      "term": "فَضۡلُ ٱللَّهِ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 113,
+      "term": "ٱلۡحِكۡمَةَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 114,
+      "term": "نَجۡوَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 120,
+      "term": "يَعِدُهُمۡ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 134,
+      "term": "ثَوَابَ ٱلدُّنۡيَا",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 135,
+      "term": "تَلۡوُۥٓاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 139,
+      "term": "ٱلۡعِزَّةَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 4,
+      "v": 162,
+      "term": "وَٱلۡمُقِيمِينَ ٱلصَّلَوٰةَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 4,
+      "v": 170,
+      "term": "فَإِنَّ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 3,
+      "term": "ٱلۡيَوۡمَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 5,
+      "v": 5,
+      "term": "وَٱلۡمُحۡصَنَٰتُ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 5,
+      "v": 15,
+      "term": "وَيَعۡفُواْ عَن كَثِيرٖ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 17,
+      "term": "فَمَن يَمۡلِكُ مِنَ ٱللَّهِ شَيۡـًٔا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 18,
+      "term": "نَحۡنُ أَبۡنَٰٓؤُاْ ٱللَّهِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 29,
+      "term": "تَبُوٓأَ بِإِثۡمِي",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 31,
+      "term": "سَوۡءَةَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 46,
+      "term": "عَلَىٰٓ ءَاثَٰرِهِم",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 51,
+      "term": "أَوۡلِيَآءَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 5,
+      "v": 66,
+      "term": "مُقۡتَصِدَةٞ.",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 69,
+      "term": "وَٱلصَّـٰبِـُٔونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 82,
+      "term": "رُهۡبَانٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 90,
+      "term": "ٱلۡمَيۡسِرُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 101,
+      "term": "لَا تَسۡـَٔلُواْ عَنۡ أَشۡيَآءَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 101,
+      "term": "تُبۡدَ لَكُمۡ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 5,
+      "v": 104,
+      "term": "حَسۡبُنَا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 5,
+      "v": 106,
+      "term": "ٱلۡمَوۡتُ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 5,
+      "v": 106,
+      "term": "ٱلصَّلَوٰةِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 108,
+      "term": "ذَٰلِكَ أَدۡنَىٰٓ أَن يَأۡتُواْ بِٱلشَّهَٰدَةِ عَلَىٰ وَجۡهِهَآ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 110,
+      "term": "وَعَلَىٰ وَٰلِدَتِكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 110,
+      "term": "كَفَفۡتُ بَنِيٓ إِسۡرَٰٓءِيلَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 5,
+      "v": 111,
+      "term": "ٱلۡحَوَارِيِّـۧنَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 6,
+      "v": 5,
+      "term": "أَنۢبَٰٓؤُاْ مَا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 6,
+      "v": 10,
+      "term": "مَا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 6,
+      "v": 26,
+      "term": "وَيَنۡـَٔوۡنَ عَنۡهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 6,
+      "v": 37,
+      "term": "ءَايَةٞ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 6,
+      "v": 40,
+      "term": "أَرَءَيۡتَكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 6,
+      "v": 52,
+      "term": "بِٱلۡغَدَوٰةِ وَٱلۡعَشِيِّ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 6,
+      "v": 60,
+      "term": "يَتَوَفَّىٰكُم",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 6,
+      "v": 93,
+      "term": "بَاسِطُوٓاْ أَيۡدِيهِمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 6,
+      "v": 94,
+      "term": "أَنَّهُمۡ فِيكُمۡ شُرَكَٰٓؤُاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 6,
+      "v": 110,
+      "term": "وَنُقَلِّبُ أَفۡـِٔدَتَهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 6,
+      "v": 122,
+      "term": "مَيۡتٗا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 6,
+      "v": 122,
+      "term": "زُيِّنَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 6,
+      "v": 128,
+      "term": "مَثۡوَىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 6,
+      "v": 153,
+      "term": "هَٰذَا صِرَٰطِي",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 6,
+      "v": 158,
+      "term": "بَعۡضُ ءَايَٰتِ رَبِّكَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 6,
+      "v": 165,
+      "term": "فِي مَآ ءَاتَىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 20,
+      "term": "مَا وُۥرِيَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 22,
+      "term": "فَدَلَّىٰهُمَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 38,
+      "term": "أُخۡرَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 38,
+      "term": "لِأُولَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 43,
+      "term": "هَدَىٰنَا لِهَٰذَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 46,
+      "term": "بِسِيمَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 51,
+      "term": "نَنسَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 53,
+      "term": "تَأۡوِيلَهُۥ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 7,
+      "v": 54,
+      "term": "يُغۡشِي ٱلَّيۡلَ ٱلنَّهَارَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 69,
+      "term": "خُلَفَآءَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 7,
+      "v": 69,
+      "term": "بَصۜۡطَةٗ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 69,
+      "term": "ءَالَآءَ ٱللَّهِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 7,
+      "v": 74,
+      "term": "فِي ٱلۡأَرۡضِ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 7,
+      "v": 88,
+      "term": "ٱسۡتَكۡبَرُواْ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 7,
+      "v": 88,
+      "term": "مِلَّتِنَا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 7,
+      "v": 98,
+      "term": "يَلۡعَبُونَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 7,
+      "v": 99,
+      "term": "مَكۡرَ ٱللَّهِ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 7,
+      "v": 100,
+      "term": "يَهۡدِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 7,
+      "v": 100,
+      "term": "يَرِثُونَ ٱلۡأَرۡضَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 7,
+      "v": 100,
+      "term": "مِنۢ بَعۡدِ أَهۡلِهَآ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 7,
+      "v": 100,
+      "term": "وَنَطۡبَعُ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 7,
+      "v": 100,
+      "term": "لَا يَسۡمَعُونَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 7,
+      "v": 127,
+      "term": "وَنَسۡتَحۡيِۦ نِسَآءَهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 134,
+      "term": "ٱلرِّجۡزُ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 7,
+      "v": 137,
+      "term": "كَلِمَتُ رَبِّكَ ٱلۡحُسۡنَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 143,
+      "term": "لَن تَرَىٰنِي",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 165,
+      "term": "بَـِٔيسِۭ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 184,
+      "term": "جِنَّةٍ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 7,
+      "v": 185,
+      "term": "مَلَكُوتِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 7,
+      "v": 187,
+      "term": "مُرۡسَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 187,
+      "term": "ثَقُلَتۡ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 189,
+      "term": "تَغَشَّىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 7,
+      "v": 196,
+      "term": "وَلِـِّۧيَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 8,
+      "v": 1,
+      "term": "ٱلۡأَنفَالِ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 8,
+      "v": 26,
+      "term": "فَـَٔاوَىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 8,
+      "v": 38,
+      "term": "سُنَّتُ ٱلۡأَوَّلِينَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 8,
+      "v": 40,
+      "term": "مَوۡلَىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 8,
+      "v": 41,
+      "term": "وَٱلۡيَتَٰمَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 8,
+      "v": 42,
+      "term": "عَنۢ بَيِّنَةٖ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 8,
+      "v": 42,
+      "term": "وَيَحۡيَىٰ مَنۡ حَيَّ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 8,
+      "v": 75,
+      "term": "وَأُوْلُواْ ٱلۡأَرۡحَامِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 9,
+      "v": 4,
+      "term": "لَمۡ يَنقُصُوكُمۡ شَيۡـٔٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 9,
+      "v": 30,
+      "term": "يُضَٰهِـُٔونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 9,
+      "v": 32,
+      "term": "أَن يُطۡفِـُٔواْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 9,
+      "v": 36,
+      "term": "كَآفَّةٗ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 9,
+      "v": 37,
+      "term": "لِّيُوَاطِـُٔواْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 9,
+      "v": 37,
+      "term": "مَا حَرَّمَ ٱللَّهُ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 9,
+      "v": 38,
+      "term": "مَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 9,
+      "v": 40,
+      "term": "كَلِمَةُ ٱللَّهِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 9,
+      "v": 45,
+      "term": "يَسۡتَـٔۡذِنُكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 9,
+      "v": 51,
+      "term": "هُوَ مَوۡلَىٰنَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 9,
+      "v": 61,
+      "term": "أُذُنٞ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 9,
+      "v": 69,
+      "term": "بِخَلَٰقِهِمۡ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 9,
+      "v": 73,
+      "term": "وَمَأۡوَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 9,
+      "v": 78,
+      "term": "وَنَجۡوَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 9,
+      "v": 86,
+      "term": "أُوْلُواْ ٱلطَّوۡلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 9,
+      "v": 95,
+      "term": "وَمَأۡوَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 9,
+      "v": 126,
+      "term": "يُفۡتَنُونَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 9,
+      "v": 126,
+      "term": "وَلَا هُمۡ يَذَّكَّرُونَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 9,
+      "v": 127,
+      "term": "هَلۡ يَرَىٰكُم مِّنۡ أَحَدٖ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 10,
+      "v": 6,
+      "term": "ٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 10,
+      "v": 10,
+      "term": "دَعۡوَىٰهُمۡ فِيهَا سُبۡحَٰنَكَ ٱللَّهُمَّ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 10,
+      "v": 16,
+      "term": "وَلَآ أَدۡرَىٰكُم بِهِۦ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 10,
+      "v": 23,
+      "term": "مَتَٰعَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 10,
+      "v": 24,
+      "term": "مَثَلُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 10,
+      "v": 30,
+      "term": "تَبۡلُواْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 10,
+      "v": 35,
+      "term": "يَهۡدِيٓ إِلَى ٱلۡحَقِّ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 10,
+      "v": 49,
+      "term": "فَلَا يَسۡتَـٔۡخِرُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 10,
+      "v": 50,
+      "term": "أَرَءَيۡتُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 10,
+      "v": 53,
+      "term": "وَيَسۡتَنۢبِـُٔونَكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 10,
+      "v": 59,
+      "term": "أَرَءَيۡتُم",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 10,
+      "v": 75,
+      "term": "وَمَلَإِيْهِۦ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 10,
+      "v": 88,
+      "term": "ٱطۡمِسۡ عَلَىٰٓ أَمۡوَٰلِهِمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 10,
+      "v": 90,
+      "term": "وَجَٰوَزۡنَا بِبَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡبَحۡرَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 10,
+      "v": 104,
+      "term": "يَتَوَفَّىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 9,
+      "term": "لَيَـُٔوسٞ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 10,
+      "term": "ٱلسَّيِّـَٔاتُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 13,
+      "term": "ٱفۡتَرَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 17,
+      "term": "كِتَٰبُ مُوسَىٰٓ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 28,
+      "term": "أَرَءَيۡتُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 28,
+      "term": "وَءَاتَىٰنِي رَحۡمَةٗ مِّنۡ عِندِهِۦ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 41,
+      "term": "مَجۡرٜىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 41,
+      "term": "وَمُرۡسَىٰهَآ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 54,
+      "term": "ٱعۡتَرَىٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 63,
+      "term": "أَرَءَيۡتُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 72,
+      "term": "يَٰوَيۡلَتَىٰٓ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 81,
+      "term": "بِقِطۡعٖ مِّنَ ٱلَّيۡلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 86,
+      "term": "بَقِيَّتُ ٱللَّهِ خَيۡرٞ لَّكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 97,
+      "term": "وَمَلَإِيْهِۦ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 114,
+      "term": "وَزُلَفٗا مِّنَ ٱلَّيۡلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 116,
+      "term": "أُوْلُواْ بَقِيَّةٖ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 11,
+      "v": 123,
+      "term": "وَلِلَّهِ غَيۡبُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 12,
+      "v": 21,
+      "term": "أَكۡرِمِي مَثۡوَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 12,
+      "v": 28,
+      "term": "كَيۡدِكُنَّ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 12,
+      "v": 31,
+      "term": "أَعۡتَدَتۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 12,
+      "v": 42,
+      "term": "فَأَنسَىٰهُ ٱلشَّيۡطَٰنُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 12,
+      "v": 68,
+      "term": "قَضَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 12,
+      "v": 80,
+      "term": "ٱسۡتَيۡـَٔسُواْ مِنۡهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 12,
+      "v": 84,
+      "term": "يَٰٓأَسَفَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 12,
+      "v": 85,
+      "term": "تَفۡتَؤُاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 12,
+      "v": 87,
+      "term": "رَوۡحِ ٱللَّهِ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 12,
+      "v": 88,
+      "term": "مُزۡجَىٰةٖ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 12,
+      "v": 100,
+      "term": "هَٰذَا تَأۡوِيلُ رُءۡيَٰيَ مِن قَبۡلُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 12,
+      "v": 101,
+      "term": "فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 12,
+      "v": 101,
+      "term": "وَلِيِّۦ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 12,
+      "v": 110,
+      "term": "ٱسۡتَيۡـَٔسَ ٱلرُّسُلُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 13,
+      "v": 3,
+      "term": "يُغۡشِي ٱلَّيۡلَ ٱلنَّهَارَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 13,
+      "v": 10,
+      "term": "مُسۡتَخۡفِۭ بِٱلَّيۡلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 13,
+      "v": 11,
+      "term": "لَهُۥ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 13,
+      "v": 19,
+      "term": "أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 13,
+      "v": 30,
+      "term": "كَذَٰلِكَ أَرۡسَلۡنَٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 13,
+      "v": 31,
+      "term": "أَفَلَمۡ يَاْيۡـَٔسِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 13,
+      "v": 34,
+      "term": "لَهُمۡ عَذَابٞ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 13,
+      "v": 37,
+      "term": "وَكَذَٰلِكَ أَنزَلۡنَٰهُ حُكۡمًا عَرَبِيّٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 13,
+      "v": 41,
+      "term": "نَنقُصُهَا مِنۡ أَطۡرَافِهَا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 13,
+      "v": 41,
+      "term": "لَا مُعَقِّبَ لِحُكۡمِهِۦ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 14,
+      "v": 5,
+      "term": "بِأَيَّىٰمِ ٱللَّهِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 14,
+      "v": 10,
+      "term": "فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 14,
+      "v": 12,
+      "term": "هَدَىٰنَا سُبُلَنَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 14,
+      "v": 21,
+      "term": "ٱلضُّعَفَٰٓؤُاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 14,
+      "v": 21,
+      "term": "لَوۡ هَدَىٰنَا ٱللَّهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 14,
+      "v": 28,
+      "term": "بَدَّلُواْ نِعۡمَتَ ٱللَّهِ كُفۡرٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 14,
+      "v": 32,
+      "term": "وَسَخَّرَ لَكُمُ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 14,
+      "v": 34,
+      "term": "نِعۡمَتَ ٱللَّهِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 14,
+      "v": 40,
+      "term": "مُقِيمَ ٱلصَّلَوٰةِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 14,
+      "v": 43,
+      "term": "وَأَفۡـِٔدَتُهُمۡ هَوَآءٞ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 14,
+      "v": 44,
+      "term": "وَأَنذِرِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 14,
+      "v": 44,
+      "term": "يَأۡتِيهِمُ ٱلۡعَذَابُ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 14,
+      "v": 44,
+      "term": "أَجَلٖ قَرِيبٖ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 14,
+      "v": 44,
+      "term": "مَا لَكُم مِّن زَوَالٖ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 14,
+      "v": 52,
+      "term": "أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 15,
+      "v": 5,
+      "term": "وَمَا يَسۡتَـٔۡخِرُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 15,
+      "v": 7,
+      "term": "لَوۡ مَا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 15,
+      "v": 24,
+      "term": "ٱلۡمُسۡتَـٔۡخِرِينَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 15,
+      "v": 65,
+      "term": "بِقِطۡعٖ مِّنَ ٱلَّيۡلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 15,
+      "v": 70,
+      "term": "عَنِ ٱلۡعَٰلَمِينَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 15,
+      "v": 92,
+      "term": "لَنَسۡـَٔلَنَّهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 27,
+      "term": "شُرَكَآءِيَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 28,
+      "term": "تَتَوَفَّىٰهُمُ ٱلۡمَلَٰٓئِكَةُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 45,
+      "term": "مَكَرُواْ ٱلسَّيِّـَٔاتِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 48,
+      "term": "مِن شَيۡءٖ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 16,
+      "v": 48,
+      "term": "يَتَفَيَّؤُاْ ظِلَٰلُهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 48,
+      "term": "سُجَّدٗا لِّلَّهِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 16,
+      "v": 48,
+      "term": "دَٰخِرُونَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 16,
+      "v": 53,
+      "term": "تَجۡـَٔرُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 59,
+      "term": "يَتَوَٰرَىٰ مِنَ ٱلۡقَوۡمِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 70,
+      "term": "يَتَوَفَّىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 75,
+      "term": "هَلۡ يَسۡتَوُۥنَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 76,
+      "term": "مَوۡلَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 77,
+      "term": "غَيۡبُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 90,
+      "term": "وَإِيتَآيِٕ ذِي ٱلۡقُرۡبَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 94,
+      "term": "فَتَزِلَّ قَدَمُۢ﴾ فتنحَرِفَ أقدامُكم عن محَجَّةِ الحقِّ. ﴿ثُبُوتِهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 103,
+      "term": "لِسَانُ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 16,
+      "v": 107,
+      "term": "ٱسۡتَحَبُّواْ ٱلۡحَيَوٰةَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 114,
+      "term": "وَٱشۡكُرُواْ نِعۡمَتَ ٱللَّهِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 121,
+      "term": "ٱجۡتَبَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 16,
+      "v": 121,
+      "term": "وَهَدَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 4,
+      "term": "وَقَضَيۡنَآ إِلَىٰ بَنِيٓ إِسۡرَٰٓءِيلَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 5,
+      "term": "وَعۡدُ أُولَىٰهُمَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 7,
+      "term": "لِيَسُـُٔواْ وُجُوهَكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 12,
+      "term": "ءَايَةَ ٱلَّيۡلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 13,
+      "term": "يَلۡقَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 18,
+      "term": "يَصۡلَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 20,
+      "term": "عَطَآءِ رَبِّكَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 17,
+      "v": 31,
+      "term": "خِطۡـٔٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 34,
+      "term": "مَسۡـُٔولٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 36,
+      "term": "مَسۡـُٔولٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 40,
+      "term": "أَفَأَصۡفَىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 46,
+      "term": "وَلَّوۡاْ عَلَىٰٓ أَدۡبَٰرِهِمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 55,
+      "term": "فَضَّلۡنَا بَعۡضَ ٱلنَّبِيِّـۧنَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 59,
+      "term": "بِٱلۡأٓيَٰتِ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 17,
+      "v": 60,
+      "term": "ٱلرُّءۡيَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 62,
+      "term": "أَرَءَيۡتَكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 75,
+      "term": "ضِعۡفَ ٱلۡحَيَوٰةِ وَضِعۡفَ ٱلۡمَمَاتِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 78,
+      "term": "غَسَقِ ٱلَّيۡلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 83,
+      "term": "وَنَـَٔا بِجَانِبِهِۦ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 83,
+      "term": "يَـُٔوسٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 97,
+      "term": "مَأۡوَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 17,
+      "v": 99,
+      "term": "أَجَلٗا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 17,
+      "v": 99,
+      "term": "لَا رَيۡبَ فِيهِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 17,
+      "v": 99,
+      "term": "كُفُورٗا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 17,
+      "v": 101,
+      "term": "فَسۡـَٔلۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 18,
+      "v": 6,
+      "term": "عَلَىٰٓ ءَاثَٰرِهِمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 18,
+      "v": 16,
+      "term": "فَأۡوُۥٓاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 18,
+      "v": 21,
+      "term": "أَمۡرَهُمۡ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 18,
+      "v": 28,
+      "term": "بِٱلۡغَدَوٰةِ وَٱلۡعَشِيِّ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 18,
+      "v": 45,
+      "term": "مَثَلَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 18,
+      "v": 46,
+      "term": "زِينَةُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 18,
+      "v": 49,
+      "term": "ٱلۡكِتَٰبُ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 18,
+      "v": 49,
+      "term": "أَحۡصَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 18,
+      "v": 60,
+      "term": "لِفَتَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 18,
+      "v": 63,
+      "term": "أَرَءَيۡتَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 18,
+      "v": 70,
+      "term": "فَلَا تَسۡـَٔلۡنِي عَن شَيۡءٍ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 18,
+      "v": 71,
+      "term": "شَيۡـًٔا إِمۡرٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 18,
+      "v": 81,
+      "term": "زَكَوٰةٗ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 18,
+      "v": 83,
+      "term": "وَيَسۡـَٔلُونَكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 18,
+      "v": 98,
+      "term": "وَعۡدُ رَبِّي",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 18,
+      "v": 110,
+      "term": "يَرۡجُواْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 9,
+      "term": "وَلَمۡ تَكُ شَيۡـٔٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 12,
+      "term": "ٱلۡكِتَٰبَ﴾ أي: التَّوْرَاةَ. ﴿بِقُوَّةٖ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 13,
+      "term": "حَنَانٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 13,
+      "term": "وَزَكَوٰةٗ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 14,
+      "term": "بَرَّۢا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 20,
+      "term": "لَمۡ يَمۡسَسۡنِي بَشَرٞ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 21,
+      "term": "رَحۡمَةٗ مِّنَّا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 24,
+      "term": "فَنَادَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 25,
+      "term": "هُزِّيٓ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 27,
+      "term": "شَيۡـٔٗا فَرِيّٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 32,
+      "term": "بَرَّۢا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 36,
+      "term": "هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 61,
+      "term": "جَنَّٰتِ عَدۡنٍ﴾ جناتِ خُلْدٍ وإقامَةٍ دَائِمةٍ. ﴿بِٱلۡغَيۡبِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 74,
+      "term": "هُمۡ أَحۡسَنُ أَثَٰثٗا وَرِءۡيٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 19,
+      "v": 89,
+      "term": "شَيۡـًٔا إِدّٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 20,
+      "v": 18,
+      "term": "أَتَوَكَّؤُاْ عَلَيۡهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 20,
+      "v": 53,
+      "term": "أَزۡوَٰجٗا مِّن نَّبَاتٖ شَتَّىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 20,
+      "v": 74,
+      "term": "لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 20,
+      "v": 119,
+      "term": "لَا تَظۡمَؤُاْ فِيهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 20,
+      "v": 130,
+      "term": "ءَانَآيِٕ ٱلَّيۡلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 20,
+      "v": 131,
+      "term": "زَهۡرَةَ ٱلۡحَيَوٰةِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 20,
+      "v": 133,
+      "term": "بِـَٔايَةٖ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 20,
+      "v": 133,
+      "term": "بَيِّنَةُ مَا فِي ٱلصُّحُفِ ٱلۡأُولَىٰ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 21,
+      "v": 5,
+      "term": "بَلِ ٱفۡتَرَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 21,
+      "v": 13,
+      "term": "لَعَلَّكُمۡ تُسۡـَٔلُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 21,
+      "v": 15,
+      "term": "تِلۡكَ دَعۡوَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 21,
+      "v": 30,
+      "term": "رَتۡقٗا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 21,
+      "v": 30,
+      "term": "فَفَتَقۡنَٰهُمَا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 21,
+      "v": 37,
+      "term": "سَأُوْرِيكُمۡ ءَايَٰتِي",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 21,
+      "v": 103,
+      "term": "تَتَلَقَّىٰهُمُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 22,
+      "v": 2,
+      "term": "تَضَعُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 22,
+      "v": 2,
+      "term": "سُكَٰرَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 22,
+      "v": 5,
+      "term": "مُخَلَّقَةٖ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 22,
+      "v": 17,
+      "term": "وَٱلصَّـٰبِـِٔينَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 22,
+      "v": 24,
+      "term": "وَهُدُوٓاْ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 22,
+      "v": 24,
+      "term": "إِلَىٰ صِرَٰطِ ٱلۡحَمِيدِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 22,
+      "v": 28,
+      "term": "عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلۡأَنۡعَٰمِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 22,
+      "v": 40,
+      "term": "بِيَعٞ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 22,
+      "v": 40,
+      "term": "صَلَوَٰتٞ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 22,
+      "v": 65,
+      "term": "سَخَّرَ﴾ ذَلَّلَ. ﴿ٱلۡفُلۡكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 22,
+      "v": 65,
+      "term": "يُمۡسِكُ ٱلسَّمَآءَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 22,
+      "v": 73,
+      "term": "ٱلۡمَطۡلُوبُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 22,
+      "v": 78,
+      "term": "هُوَ ٱجۡتَبَىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 22,
+      "v": 78,
+      "term": "فِي هَٰذَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 22,
+      "v": 78,
+      "term": "هُوَ مَوۡلَىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 23,
+      "v": 24,
+      "term": "ٱلۡمَلَؤُاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 23,
+      "v": 36,
+      "term": "هَيۡهَاتَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 23,
+      "v": 43,
+      "term": "وَمَا يَسۡتَـٔۡخِرُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 23,
+      "v": 44,
+      "term": "تَتۡرَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 23,
+      "v": 46,
+      "term": "وَمَلَإِيْهِۦ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 23,
+      "v": 64,
+      "term": "يَجۡـَٔرُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 23,
+      "v": 65,
+      "term": "لَا تَجۡـَٔرُواْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 23,
+      "v": 80,
+      "term": "ٱخۡتِلَٰفُ ٱلَّيۡلِ وَٱلنَّهَارِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 23,
+      "v": 108,
+      "term": "ٱخۡسَـُٔواْ فِيهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 24,
+      "v": 8,
+      "term": "وَيَدۡرَؤُاْ عَنۡهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 24,
+      "v": 21,
+      "term": "خُطُوَٰتِ ٱلشَّيۡطَٰنِ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 24,
+      "v": 21,
+      "term": "مَا زَكَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 24,
+      "v": 22,
+      "term": "أُوْلُواْ ٱلۡفَضۡلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 24,
+      "v": 31,
+      "term": "وَلَا يُبۡدِينَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 24,
+      "v": 31,
+      "term": "زِينَتَهُنَّ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 24,
+      "v": 32,
+      "term": "ٱلۡأَيَٰمَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 24,
+      "v": 35,
+      "term": "كَمِشۡكَوٰةٖ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 24,
+      "v": 40,
+      "term": "يَغۡشَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 24,
+      "v": 40,
+      "term": "يَدَهُۥ لَمۡ يَكَدۡ يَرَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 24,
+      "v": 57,
+      "term": "وَمَأۡوَىٰهُمُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 24,
+      "v": 61,
+      "term": "حَرَجٞ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 25,
+      "v": 4,
+      "term": "ٱفۡتَرَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 25,
+      "v": 16,
+      "term": "مَّسۡـُٔولٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 25,
+      "v": 21,
+      "term": "وَعَتَوۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 25,
+      "v": 77,
+      "term": "مَا يَعۡبَؤُاْ بِكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 26,
+      "v": 7,
+      "term": "أَوَ لَمۡ يَرَوۡاْ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 26,
+      "v": 30,
+      "term": "بِشَيۡءٖ مُّبِينٖ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 26,
+      "v": 75,
+      "term": "أَفَرَءَيۡتُم",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 26,
+      "v": 130,
+      "term": "بَطَشۡتُم",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 26,
+      "v": 176,
+      "term": "أَصۡحَٰبُ لۡـَٔيۡكَةِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 26,
+      "v": 224,
+      "term": "ٱلۡغَاوُۥنَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 27,
+      "v": 32,
+      "term": "يَٰٓأَيُّهَا ٱلۡمَلَؤُاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 27,
+      "v": 33,
+      "term": "وَأُوْلُواْ بَأۡسٖ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 27,
+      "v": 44,
+      "term": "مُمَرَّدٞ﴾ أمْلَسُ. ﴿مِن قَوَارِيرَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 27,
+      "v": 64,
+      "term": "يَبۡدَؤُاْ ٱلۡخَلۡقَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 28,
+      "v": 4,
+      "term": "وَيَسۡتَحۡيِۦ نِسَآءَهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 28,
+      "v": 9,
+      "term": "قُرَّتُ عَيۡنٖ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 28,
+      "v": 15,
+      "term": "مِن شِيعَتِهِۦ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 28,
+      "v": 20,
+      "term": "أَقۡصَا ٱلۡمَدِينَةِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 28,
+      "v": 32,
+      "term": "وَمَلَإِيْهِۦٓ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 28,
+      "v": 48,
+      "term": "أُوتِيَ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 28,
+      "v": 48,
+      "term": "سِحۡرَانِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 28,
+      "v": 57,
+      "term": "نُتَخَطَّفۡ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 28,
+      "v": 57,
+      "term": "أَوَ لَمۡ نُمَكِّن لَّهُمۡ حَرَمًا ءَامِنٗا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 28,
+      "v": 57,
+      "term": "يُجۡبَىٰٓ إِلَيۡهِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 28,
+      "v": 71,
+      "term": "أَرَءَيۡتُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 28,
+      "v": 73,
+      "term": "لِتَبۡتَغُواْ مِن فَضۡلِهِۦ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 28,
+      "v": 77,
+      "term": "ءَاتَىٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 28,
+      "v": 78,
+      "term": "أُوتِيتُهُۥ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 28,
+      "v": 78,
+      "term": "مِنَ ٱلۡقُرُونِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 28,
+      "v": 80,
+      "term": "وَلَا يُلَقَّىٰهَآ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 28,
+      "v": 82,
+      "term": "مَنَّ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 28,
+      "v": 86,
+      "term": "تَرۡجُوٓاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 29,
+      "v": 5,
+      "term": "يَرۡجُواْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 29,
+      "v": 10,
+      "term": "فِتۡنَةَ ٱلنَّاسِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 29,
+      "v": 13,
+      "term": "أَثۡقَالَهُمۡ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 29,
+      "v": 17,
+      "term": "تَخۡلُقُونَ إِفۡكًا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 29,
+      "v": 19,
+      "term": "أَوَ لَمۡ يَرَوۡاْ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 29,
+      "v": 19,
+      "term": "يُبۡدِئُ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 29,
+      "v": 19,
+      "term": "يُعِيدُهُۥٓ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 29,
+      "v": 25,
+      "term": "مَأۡوَىٰكُمُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 29,
+      "v": 67,
+      "term": "وَيُتَخَطَّفُ ٱلنَّاسُ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 29,
+      "v": 67,
+      "term": "أَفَبِٱلۡبَٰطِلِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 30,
+      "v": 7,
+      "term": "ظَٰهِرٗا مِّنَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 8,
+      "term": "أَوَ لَمۡ يَتَفَكَّرُواْ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 30,
+      "v": 8,
+      "term": "أَجَلٖ مُّسَمّٗى",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 8,
+      "term": "بِلِقَآيِٕ رَبِّهِمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 9,
+      "term": "عَٰقِبَةُ ٱلَّذِينَ مِن قَبۡلِهِمۡ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 30,
+      "v": 9,
+      "term": "وَأَثَارُواْ ٱلۡأَرۡضَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 30,
+      "v": 9,
+      "term": "وَعَمَرُوهَآ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 30,
+      "v": 9,
+      "term": "بِٱلۡبَيِّنَٰتِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 30,
+      "v": 11,
+      "term": "يَبۡدَؤُاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 16,
+      "term": "وَلِقَآيِٕ ٱلۡأٓخِرَةِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 23,
+      "term": "ٱبۡتِغَآؤُكُم",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 27,
+      "term": "يَبۡدَؤُاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 30,
+      "term": "فِطۡرَتَ ٱللَّهِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 37,
+      "term": "أَوَ لَمۡ يَرَوۡاْ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 30,
+      "v": 37,
+      "term": "وَيَقۡدِرُ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 30,
+      "v": 38,
+      "term": "ٱلۡمِسۡكِينَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 38,
+      "term": "ٱبۡنَ ٱلسَّبِيلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 39,
+      "term": "وَمَآ ءَاتَيۡتُم",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 30,
+      "v": 39,
+      "term": "لِيَرۡبُوَاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 39,
+      "term": "فَلَا يَرۡبُواْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 40,
+      "term": "سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 46,
+      "term": "لِتَبۡتَغُواْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 49,
+      "term": "بَعۡدَ مَوۡتِهَآ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 30,
+      "v": 54,
+      "term": "قُوَّةٖ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 31,
+      "v": 4,
+      "term": "يُؤۡتُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 31,
+      "v": 10,
+      "term": "بَثَّ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 31,
+      "v": 14,
+      "term": "وَصَّيۡنَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 31,
+      "v": 29,
+      "term": "سَخَّرَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 31,
+      "v": 34,
+      "term": "تَدۡرِي",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 32,
+      "v": 3,
+      "term": "ٱفۡتَرَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 32,
+      "v": 9,
+      "term": "سَوَّىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 32,
+      "v": 9,
+      "term": "وَٱلۡأَفۡـِٔدَةَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 32,
+      "v": 11,
+      "term": "يَتَوَفَّىٰكُم",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 32,
+      "v": 13,
+      "term": "هُدَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 32,
+      "v": 20,
+      "term": "فَمَأۡوَىٰهُمُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 32,
+      "v": 26,
+      "term": "أَوَ لَمۡ يَهۡدِ لَهُمۡ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 32,
+      "v": 26,
+      "term": "مِنَ ٱلۡقُرُونِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 32,
+      "v": 26,
+      "term": "لَأٓيَٰتٍ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 32,
+      "v": 27,
+      "term": "ٱلۡجُرُزِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 33,
+      "v": 6,
+      "term": "وَأُوْلُواْ ٱلۡأَرۡحَامِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 33,
+      "v": 15,
+      "term": "مَّسۡـُٔولٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 33,
+      "v": 21,
+      "term": "يَرۡجُواْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 33,
+      "v": 27,
+      "term": "لَمۡ تَطَـُٔوهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 33,
+      "v": 31,
+      "term": "أَعۡتَدۡنَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 33,
+      "v": 33,
+      "term": "ٱلۡجَٰهِلِيَّةِ ٱلۡأُولَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 33,
+      "v": 35,
+      "term": "ٱلۡقَٰنِتِينَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 33,
+      "v": 35,
+      "term": "أَجۡرًا عَظِيمٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 33,
+      "v": 37,
+      "term": "وَطَرٗا",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 33,
+      "v": 40,
+      "term": "وَخَاتَمَ ٱلنَّبِيِّـۧنَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 33,
+      "v": 51,
+      "term": "تُـٔۡوِيٓ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 33,
+      "v": 53,
+      "term": "غَيۡرَ نَٰظِرِينَ إِنَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 33,
+      "v": 53,
+      "term": "وَلَا مُسۡتَـٔۡنِسِينَ لِحَدِيثٍ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 33,
+      "v": 60,
+      "term": "ٱلۡمُرۡجِفُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 34,
+      "v": 11,
+      "term": "قَدِّرۡ فِي ٱلسَّرۡدِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 34,
+      "v": 12,
+      "term": "مَن يَزِغۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 34,
+      "v": 16,
+      "term": "أَثۡلٖ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 34,
+      "v": 30,
+      "term": "لَا تَسۡتَـٔۡخِرُونَ عَنۡهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 34,
+      "v": 30,
+      "term": "لَا تَسۡتَقۡدِمُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 34,
+      "v": 33,
+      "term": "بَلۡ مَكۡرُ ٱلَّيۡلِ وَٱلنَّهَارِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 34,
+      "v": 33,
+      "term": "أَسَرُّواْ ٱلنَّدَامَةَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 34,
+      "v": 36,
+      "term": "يَقۡدِرُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 34,
+      "v": 39,
+      "term": "يَقۡدِرُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 35,
+      "v": 7,
+      "term": "أَجۡرٞ كَبِيرٌ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 35,
+      "v": 10,
+      "term": "يَمۡكُرُونَ ٱلسَّيِّـَٔاتِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 35,
+      "v": 10,
+      "term": "وَإِذۡ يَمۡكُرُ بِكَ ٱلَّذِينَ كَفَرُواْ لِيُثۡبِتُوكَ أَوۡ يَقۡتُلُوكَ أَوۡ يُخۡرِجُوكَ﴾ [الأنفال: 30]. ﴿يَبُورُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 35,
+      "v": 11,
+      "term": "لَا تَضَعُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 35,
+      "v": 37,
+      "term": "يَصۡطَرِخُونَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 35,
+      "v": 37,
+      "term": "مَا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 35,
+      "v": 37,
+      "term": "ٱلنَّذِيرُ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 35,
+      "v": 40,
+      "term": "أَرَءَيۡتُمۡ شُرَكَآءَكُمُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 35,
+      "v": 43,
+      "term": "لَا يَحِيقُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 35,
+      "v": 43,
+      "term": "سُنَّتَ ٱلۡأَوَّلِينَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 35,
+      "v": 44,
+      "term": "لِيُعۡجِزَهُۥ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 36,
+      "v": 9,
+      "term": "سَدّٗا",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 36,
+      "v": 11,
+      "term": "أَجۡرٖ كَرِيمٍ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 36,
+      "v": 12,
+      "term": "نُحۡيِ ٱلۡمَوۡتَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 36,
+      "v": 20,
+      "term": "أَقۡصَا ٱلۡمَدِينَةِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 36,
+      "v": 30,
+      "term": "يَسۡتَهۡزِءُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 36,
+      "v": 34,
+      "term": "فَجَّرۡنَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 36,
+      "v": 37,
+      "term": "ءَايَةٞ لَّهُمُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 36,
+      "v": 41,
+      "term": "ءَايَةٞ لَّهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 36,
+      "v": 67,
+      "term": "لَمَسَخۡنَٰهُمۡ عَلَىٰ مَكَانَتِهِمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 36,
+      "v": 71,
+      "term": "مِمَّا عَمِلَتۡ أَيۡدِينَآ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 36,
+      "v": 71,
+      "term": "لَهَا مَٰلِكُونَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 36,
+      "v": 77,
+      "term": "مِن نُّطۡفَةٖ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 36,
+      "v": 77,
+      "term": "خَصِيمٞ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 37,
+      "v": 23,
+      "term": "فَٱهۡدُوهُمۡ إِلَىٰ صِرَٰطِ ٱلۡجَحِيمِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 37,
+      "v": 106,
+      "term": "ٱلۡبَلَٰٓؤُاْ ٱلۡمُبِينُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 38,
+      "v": 13,
+      "term": "وَأَصۡحَٰبُ لۡـَٔيۡكَةِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 38,
+      "v": 21,
+      "term": "نَبَؤُاْ ٱلۡخَصۡمِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 38,
+      "v": 29,
+      "term": "أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 38,
+      "v": 51,
+      "term": "مُتَّكِـِٔينَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 38,
+      "v": 59,
+      "term": "صَالُواْ ٱلنَّارِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 38,
+      "v": 67,
+      "term": "نَبَؤٌاْ عَظِيمٌ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 39,
+      "v": 5,
+      "term": "يُكَوِّرُ ٱلَّيۡلَ عَلَى ٱلنَّهَارِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 39,
+      "v": 5,
+      "term": "وَيُكَوِّرُ ٱلنَّهَارَ عَلَى ٱلَّيۡلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 39,
+      "v": 9,
+      "term": "أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 39,
+      "v": 16,
+      "term": "ظُلَلٞ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 39,
+      "v": 18,
+      "term": "أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 39,
+      "v": 20,
+      "term": "غُرَفٞ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 39,
+      "v": 29,
+      "term": "مَثَلًا",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 39,
+      "v": 43,
+      "term": "شُفَعَآءَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 39,
+      "v": 51,
+      "term": "سَيِّـَٔاتُ مَا كَسَبُواْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 39,
+      "v": 52,
+      "term": "وَيَقۡدِرُ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 39,
+      "v": 56,
+      "term": "يَٰحَسۡرَتَى",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 39,
+      "v": 63,
+      "term": "مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 40,
+      "v": 6,
+      "term": "كَلِمَتُ رَبِّكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 40,
+      "v": 9,
+      "term": "وَقِهِمُ ٱلسَّيِّـَٔاتِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 40,
+      "v": 21,
+      "term": "عَٰقِبَةُ ٱلَّذِينَ كَانُواْ مِن قَبۡلِهِمۡ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 40,
+      "v": 21,
+      "term": "وَءَاثَارٗا فِي ٱلۡأَرۡضِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 40,
+      "v": 21,
+      "term": "فَأَخَذَهُمُ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 40,
+      "v": 21,
+      "term": "وَاقٖ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 40,
+      "v": 45,
+      "term": "سَيِّـَٔاتِ مَا مَكَرُواْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 40,
+      "v": 50,
+      "term": "بِٱلۡبَيِّنَٰتِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 40,
+      "v": 50,
+      "term": "إِلَّا فِي ضَلَٰلٍ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 40,
+      "v": 83,
+      "term": "مَا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 40,
+      "v": 85,
+      "term": "سُنَّتَ ٱللَّهِ ٱلَّتِي قَدۡ خَلَتۡ فِي عِبَادِهِۦ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 41,
+      "v": 7,
+      "term": "لَا يُؤۡتُونَ ٱلزَّكَوٰةَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 41,
+      "v": 12,
+      "term": "فَقَضَىٰهُنَّ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 41,
+      "v": 13,
+      "term": "صَٰعِقَةٗ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 41,
+      "v": 15,
+      "term": "بِـَٔايَٰتِنَا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 41,
+      "v": 23,
+      "term": "أَرۡدَىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 41,
+      "v": 35,
+      "term": "وَمَا يُلَقَّىٰهَآ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 41,
+      "v": 38,
+      "term": "لَا يَسۡـَٔمُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 41,
+      "v": 44,
+      "term": "ءَا۬عۡجَمِيّٞ وَعَرَبِيّٞ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 41,
+      "v": 47,
+      "term": "إِلَيۡهِ يُرَدُّ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 41,
+      "v": 47,
+      "term": "مِنۡ أَكۡمَامِهَا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 41,
+      "v": 47,
+      "term": "ءَاذَنَّٰكَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 41,
+      "v": 47,
+      "term": "مَامِنَّا مِن شَهِيدٖ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 41,
+      "v": 49,
+      "term": "لَا يَسۡـَٔمُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 41,
+      "v": 49,
+      "term": "فَيَـُٔوسٞ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 41,
+      "v": 51,
+      "term": "وَنَـَٔا بِجَانِبِهِۦ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 41,
+      "v": 51,
+      "term": "عَرِيضٖ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 41,
+      "v": 52,
+      "term": "أَرَءَيۡتُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 41,
+      "v": 53,
+      "term": "ءَايَٰتِنَا",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 41,
+      "v": 53,
+      "term": "ٱلۡأٓفَاقِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 41,
+      "v": 53,
+      "term": "وَفِيٓ أَنفُسِهِمۡ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 41,
+      "v": 53,
+      "term": "أَوَ لَمۡ يَكۡفِ بِرَبِّكَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 42,
+      "v": 12,
+      "term": "مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 42,
+      "v": 23,
+      "term": "لَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ أَجۡرًا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 42,
+      "v": 36,
+      "term": "فَمَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 42,
+      "v": 40,
+      "term": "وَجَزَٰٓؤُاْ سَيِّئَةٖ سَيِّئَةٞ مِّثۡلُهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 43,
+      "v": 16,
+      "term": "وَأَصۡفَىٰكُم",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 43,
+      "v": 18,
+      "term": "يُنَشَّؤُاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 43,
+      "v": 18,
+      "term": "ٱلۡحِلۡيَةِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 43,
+      "v": 18,
+      "term": "ٱلۡخِصَامِ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 43,
+      "v": 22,
+      "term": "عَلَىٰٓ ءَاثَٰرِهِم",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 43,
+      "v": 32,
+      "term": "رَحۡمَتَ رَبِّكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 43,
+      "v": 32,
+      "term": "وَرَحۡمَتُ رَبِّكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 43,
+      "v": 34,
+      "term": "يَتَّكِـُٔونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 43,
+      "v": 46,
+      "term": "وَمَلَإِيْهِۦ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 43,
+      "v": 59,
+      "term": "مَثَلٗا لِّبَنِيٓ إِسۡرَٰٓءِيلَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 43,
+      "v": 80,
+      "term": "وَنَجۡوَىٰهُم",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 44,
+      "v": 33,
+      "term": "بَلَٰٓؤٞاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 44,
+      "v": 41,
+      "term": "مَوۡلٗى",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 44,
+      "v": 43,
+      "term": "شَجَرَتَ ٱلزَّقُّومِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 45,
+      "v": 5,
+      "term": "وَٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 45,
+      "v": 34,
+      "term": "نَنسَىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 45,
+      "v": 34,
+      "term": "وَمَأۡوَىٰكُمُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 46,
+      "v": 10,
+      "term": "أَرَءَيۡتُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 46,
+      "v": 15,
+      "term": "كُرۡهٗا",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 46,
+      "v": 26,
+      "term": "وَأَفۡـِٔدَةٗ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 46,
+      "v": 26,
+      "term": "مَا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 46,
+      "v": 28,
+      "term": "ٱتَّخَذُواْ﴾ ومَفْعُولِهِ: ﴿ءَالِهَةَۢ﴾. ﴿ضَلُّواْ عَنۡهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 46,
+      "v": 33,
+      "term": "وَلَمۡ يَعۡيَ بِخَلۡقِهِنَّ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 46,
+      "v": 35,
+      "term": "أُوْلُواْ ٱلۡعَزۡمِ مِنَ ٱلرُّسُلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 47,
+      "v": 11,
+      "term": "مَوۡلَىٰ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 47,
+      "v": 18,
+      "term": "ذِكۡرَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 47,
+      "v": 19,
+      "term": "وَمَثۡوَىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 48,
+      "v": 17,
+      "term": "حَرَجٞ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 48,
+      "v": 25,
+      "term": "تَطَـُٔوهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 48,
+      "v": 27,
+      "term": "صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءۡيَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 48,
+      "v": 29,
+      "term": "شَطۡـَٔهُۥ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 51,
+      "v": 16,
+      "term": "ءَاتَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 51,
+      "v": 37,
+      "term": "تَرَكۡنَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 51,
+      "v": 47,
+      "term": "بِأَيۡيْدٖ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 52,
+      "v": 19,
+      "term": "هَنِيٓـَٔۢا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 52,
+      "v": 20,
+      "term": "مُتَّكِـِٔينَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 52,
+      "v": 29,
+      "term": "بِنِعۡمَتِ رَبِّكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 53,
+      "v": 28,
+      "term": "ٱلظَّنَّ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 53,
+      "v": 39,
+      "term": "لَيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 53,
+      "v": 41,
+      "term": "يُجۡزَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 53,
+      "v": 51,
+      "term": "وَثَمُودَاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 53,
+      "v": 54,
+      "term": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 54,
+      "v": 25,
+      "term": "أَءُلۡقِيَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 55,
+      "v": 31,
+      "term": "أَيُّهَ ٱلثَّقَلَانِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 56,
+      "v": 9,
+      "term": "أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 56,
+      "v": 23,
+      "term": "ٱللُّؤۡلُوِٕ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 56,
+      "v": 72,
+      "term": "ٱلۡمُنشِـُٔونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 57,
+      "v": 3,
+      "term": "ٱلۡأٓخِرُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 57,
+      "v": 3,
+      "term": "ٱلظَّٰهِرُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 57,
+      "v": 3,
+      "term": "ٱلۡبَاطِنُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 57,
+      "v": 6,
+      "term": "يُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 57,
+      "v": 6,
+      "term": "وَيُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 57,
+      "v": 10,
+      "term": "مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 57,
+      "v": 15,
+      "term": "مَأۡوَىٰكُمُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 58,
+      "v": 6,
+      "term": "أَحۡصَىٰهُ ٱللَّهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 58,
+      "v": 13,
+      "term": "ءَأَشۡفَقۡتُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 58,
+      "v": 19,
+      "term": "فَأَنسَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 58,
+      "v": 22,
+      "term": "حِزۡبُ ٱللَّهِ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 59,
+      "v": 2,
+      "term": "فَأَتَىٰهُمُ ٱللَّهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 59,
+      "v": 7,
+      "term": "وَٱلۡيَتَٰمَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 59,
+      "v": 9,
+      "term": "تَبَوَّءُو",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 59,
+      "v": 19,
+      "term": "فَأَنسَىٰهُمۡ أَنفُسَهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 60,
+      "v": 6,
+      "term": "يَرۡجُواْ ٱللَّهَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 60,
+      "v": 10,
+      "term": "مَآ أَنفَقُواْ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 60,
+      "v": 12,
+      "term": "أَن لَّا يُشۡرِكۡنَ بِٱللَّهِ شَيۡـٔٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 61,
+      "v": 8,
+      "term": "لِيُطۡفِـُٔواْ نُورَ ٱللَّهِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 61,
+      "v": 14,
+      "term": "لِلۡحَوَارِيِّـۧنَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 62,
+      "v": 2,
+      "term": "ٱلۡأُمِّيِّـۧنَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 62,
+      "v": 5,
+      "term": "مَثَلُ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 62,
+      "v": 5,
+      "term": "حُمِّلُواْ ٱلتَّوۡرَىٰةَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 62,
+      "v": 8,
+      "term": "ٱلشَّهَٰدَةِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 63,
+      "v": 7,
+      "term": "خَزَآئِنُ ٱلسَّمَٰوَٰتِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 64,
+      "v": 18,
+      "term": "ٱلشَّهَٰدَةِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 65,
+      "v": 2,
+      "term": "بِمَعۡرُوفٍ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 65,
+      "v": 2,
+      "term": "بِمَعۡرُوفٖ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 65,
+      "v": 5,
+      "term": "يُكَفِّرۡ عَنۡهُ سَيِّـَٔاتِهِۦ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 65,
+      "v": 7,
+      "term": "إِلَّا مَآ ءَاتَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 66,
+      "v": 2,
+      "term": "مَوۡلَىٰكُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 66,
+      "v": 4,
+      "term": "مَوۡلَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 66,
+      "v": 9,
+      "term": "وَمَأۡوَىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 67,
+      "v": 16,
+      "term": "ءَأَمِنتُم",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 67,
+      "v": 19,
+      "term": "صَٰٓفَّٰتٖ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 67,
+      "v": 19,
+      "term": "وَيَقۡبِضۡنَ",
+      "status": "display_word_count_mismatch"
+    },
+    {
+      "s": 67,
+      "v": 23,
+      "term": "وَٱلۡأَفۡـِٔدَةَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 67,
+      "v": 27,
+      "term": "سِيٓـَٔتۡ وُجُوهُ ٱلَّذِينَ كَفَرُواْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 67,
+      "v": 28,
+      "term": "أَرَءَيۡتُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 67,
+      "v": 30,
+      "term": "أَرَءَيۡتُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 68,
+      "v": 6,
+      "term": "بِأَييِّكُمُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 69,
+      "v": 3,
+      "term": "وَمَآ أَدۡرَىٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 69,
+      "v": 11,
+      "term": "طَغَا ٱلۡمَآءُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 69,
+      "v": 24,
+      "term": "هَنِيٓـَٔۢا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 69,
+      "v": 37,
+      "term": "ٱلۡخَٰطِـُٔونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 70,
+      "v": 10,
+      "term": "وَلَا يَسۡـَٔلُ حَمِيمٌ حَمِيمٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 70,
+      "v": 13,
+      "term": "تُـٔۡوِيهِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 71,
+      "v": 25,
+      "term": "مِمَّا خَطِيٓـَٰٔتِهِمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 72,
+      "v": 3,
+      "term": "تَعَٰلَىٰ جَدُّ رَبِّنَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 73,
+      "v": 2,
+      "term": "قُمِ ٱلَّيۡلَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 73,
+      "v": 6,
+      "term": "نَاشِئَةَ ٱلَّيۡلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 73,
+      "v": 6,
+      "term": "أَشَدُّ وَطۡـٔٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 73,
+      "v": 18,
+      "term": "وَيَوۡمَ تَشَقَّقُ ٱلسَّمَآءُ بِٱلۡغَمَٰمِ﴾ [الفرقان: 25]. ﴿مَفۡعُولًا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 73,
+      "v": 20,
+      "term": "أَدۡنَىٰ مِن ثُلُثَيِ ٱلَّيۡلِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 73,
+      "v": 20,
+      "term": "وَٱللَّهُ يُقَدِّرُ ٱلَّيۡلَ وَٱلنَّهَارَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 74,
+      "v": 27,
+      "term": "وَمَآ أَدۡرَىٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 75,
+      "v": 40,
+      "term": "يُحۡـِۧيَ ٱلۡمَوۡتَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 76,
+      "v": 1,
+      "term": "لَمۡ يَكُن شَيۡـٔٗا مَّذۡكُورًا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 76,
+      "v": 4,
+      "term": "سَلَٰسِلَاْ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 76,
+      "v": 11,
+      "term": "وَلَقَّىٰهُمۡ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 76,
+      "v": 13,
+      "term": "مُّتَّكِـِٔينَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 77,
+      "v": 14,
+      "term": "وَمَآ أَدۡرَىٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 77,
+      "v": 33,
+      "term": "جِمَٰلَتٞ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 77,
+      "v": 43,
+      "term": "هَنِيٓـَٔۢا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 10,
+      "term": "أَءِنَّا لَمَرۡدُودُونَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 11,
+      "term": "أَءِذَا كُنَّا عِظَٰمٗا نَّخِرَةٗ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 20,
+      "term": "فَأَرَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 27,
+      "term": "ءَأَنتُمۡ أَشَدُّ خَلۡقًا أَمِ ٱلسَّمَآءُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 27,
+      "term": "بَنَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 28,
+      "term": "فَسَوَّىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 29,
+      "term": "وَأَخۡرَجَ ضُحَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 30,
+      "term": "دَحَىٰهَآ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 31,
+      "term": "وَمَرۡعَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 32,
+      "term": "أَرۡسَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 35,
+      "term": "يَتَذَكَّرُ ٱلۡإِنسَٰنُ مَا سَعَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 38,
+      "term": "وَءَاثَرَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 42,
+      "term": "أَيَّانَ مُرۡسَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 43,
+      "term": "فِيمَ أَنتَ مِن ذِكۡرَىٰهَآ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 44,
+      "term": "إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 79,
+      "v": 46,
+      "term": "ضُحَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 80,
+      "v": 24,
+      "term": "فَلۡيَنظُرِ ٱلۡإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 81,
+      "v": 8,
+      "term": "ٱلۡمَوۡءُۥدَةُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 82,
+      "v": 7,
+      "term": "فَسَوَّىٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 82,
+      "v": 17,
+      "term": "وَمَآ أَدۡرَىٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 82,
+      "v": 19,
+      "term": "لَا تَمۡلِكُ نَفۡسٞ لِّنَفۡسٖ شَيۡـٔٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 83,
+      "v": 8,
+      "term": "وَمَآ أَدۡرَىٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 84,
+      "v": 11,
+      "term": "يَدۡعُواْ ثُبُورٗا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 86,
+      "v": 2,
+      "term": "وَمَآ أَدۡرَىٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 87,
+      "v": 13,
+      "term": "وَلَا يَحۡيَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 87,
+      "v": 18,
+      "term": "قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ﴾ إِلى تَمامِ أَرْبَعِ آياتٍ. ﴿ٱلصُّحُفِ ٱلۡأُولَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 89,
+      "v": 15,
+      "term": "ٱبۡتَلَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 89,
+      "v": 16,
+      "term": "ٱبۡتَلَىٰهُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 90,
+      "v": 12,
+      "term": "وَمَآ أَدۡرَىٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 90,
+      "v": 17,
+      "term": "وَتَوَاصَوۡاْ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 90,
+      "v": 19,
+      "term": "أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 91,
+      "v": 1,
+      "term": "وَضُحَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 91,
+      "v": 2,
+      "term": "تَلَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 91,
+      "v": 3,
+      "term": "جَلَّىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 91,
+      "v": 4,
+      "term": "يَغۡشَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 91,
+      "v": 5,
+      "term": "وَمَا بَنَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 91,
+      "v": 6,
+      "term": "وَمَا طَحَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 91,
+      "v": 7,
+      "term": "وَمَا سَوَّىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 91,
+      "v": 8,
+      "term": "وَتَقۡوَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 91,
+      "v": 9,
+      "term": "زَكَّىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 91,
+      "v": 10,
+      "term": "دَسَّىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 91,
+      "v": 11,
+      "term": "بِطَغۡوَىٰهَآ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 91,
+      "v": 12,
+      "term": "أَشۡقَىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 91,
+      "v": 14,
+      "term": "فَسَوَّىٰهَا",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 92,
+      "v": 15,
+      "term": "لَا يَصۡلَىٰهَآ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 96,
+      "v": 9,
+      "term": "أَرَءَيۡتَ ٱلَّذِي يَنۡهَىٰ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 96,
+      "v": 11,
+      "term": "أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 97,
+      "v": 2,
+      "term": "وَمَآ أَدۡرَىٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 101,
+      "v": 3,
+      "term": "وَمَآ أَدۡرَىٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 101,
+      "v": 10,
+      "term": "وَمَآ أَدۡرَىٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 102,
+      "v": 1,
+      "term": "أَلۡهَىٰكُمُ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 103,
+      "v": 3,
+      "term": "وَتَوَاصَوۡاْ",
+      "status": "ambiguous_occurrence"
+    },
+    {
+      "s": 104,
+      "v": 5,
+      "term": "وَمَآ أَدۡرَىٰكَ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 104,
+      "v": 7,
+      "term": "تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ",
+      "status": "no_exact_match"
+    },
+    {
+      "s": 106,
+      "v": 2,
+      "term": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ",
+      "status": "no_exact_match"
+    }
+  ]
+}

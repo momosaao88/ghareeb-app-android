@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "reviewDate": "2026-10-26",
+  "projectData": {
+    "quranText": {
+      "file": "data.js",
+      "projectClaim": {
+        "organization": "مجمع الملك فهد لطباعة المصحف الشريف",
+        "riwaya": "حفص عن عاصم",
+        "script": "الرسم العثماني",
+        "edition": "الإصدار 8"
+      },
+      "claimEvidence": ["README-ar.txt", "index.html"],
+      "referenceComparison": "not_performed",
+      "redistributionTerms": "not_documented_in_project",
+      "sha256Baseline": "CEE579E53DFADD0C45644DC47D78C55CEF23CC459BCE3FF960A3B803125B856A"
+    },
+    "gharibMeanings": {
+      "file": "data.js (verse field x)",
+      "projectClaim": {
+        "title": "السراج في بيان غريب القرآن",
+        "author": "محمد بن عبد العزيز الخضيري",
+        "copy": "نسخة المكتبة الشاملة كما يذكر المشروع",
+        "edition": null
+      },
+      "claimEvidence": ["README-ar.txt", "index.html", "scripts/sources.js"],
+      "referenceComparison": "not_performed",
+      "redistributionTerms": "not_documented_in_project"
+    },
+    "muyassarMeanings": {
+      "file": "scripts/muyassar-meanings.js (separate source dataset)",
+      "officialPackage": "references/MuyassarGhareeb.docx",
+      "title": "الميسّر في غريب القرآن الكريم",
+      "organization": "مجمع الملك فهد لطباعة المصحف الشريف",
+      "developerPortal": "https://qurancomplex.gov.sa/quran-dev/",
+      "downloadUrl": "https://download.qurancomplex.gov.sa/resources_dev/MuyassarGhareeb.docx",
+      "officialPackageMd5": "ffd3c58f51f8a69340a205b71bf1e870",
+      "officialPackageSha1": "1be35ad20c48b4d47dfa0bfc3d97ac7b0b3401ca",
+      "localPackageSha256": "8a7af5decb94ee465b77c0eded05e018c6bf813fc544455bd0faebfcc84a8cb2",
+      "officialHashComparison": "md5_and_sha1_match_values_published_on_developer_portal",
+      "extraction": {"surahs": 114, "meaningRecords": 11358, "wordAnchored": 10547, "unmappedForManualReview": 811},
+      "redistributionTerms": "developer_portal_provides_file_for_developer_use; confirm applicable terms before public redistribution"
+    },
+    "recitationAudio": {
+      "host": "everyayah.com",
+      "claimEvidence": ["README-ar.txt", "app.js"],
+      "rightsReview": "not_performed"
+    }
+  },
+  "referenceCandidates": [
+    {
+      "title": "منصة مطوري برمجيات القرآن الكريم",
+      "organization": "مجمع الملك فهد لطباعة المصحف الشريف",
+      "url": "https://qurancomplex.gov.sa/quran-dev/",
+      "describedFormats": ["JSON", "CSV", "SQL", "XML", "HTML5"],
+      "referenceStatus": "candidate_not_compared",
+      "notes": "تصف المنصة بيانات رقمية برواية حفص. تختلف بيانات الإصدارات الظاهرة فيها عن تسمية الإصدار في ملفات المشروع؛ يلزم تحديد الحزمة الدقيقة ثم المقارنة."
+    },
+    {
+      "title": "الميسر في غريب القرآن الكريم",
+      "organization": "مجمع الملك فهد لطباعة المصحف الشريف",
+      "url": "https://qurancomplex.gov.sa/kfgqpc-books-muyassarghareeb/",
+      "developerDataUrl": "https://qurancomplex.gov.sa/quran-dev/",
+      "referenceStatus": "official_docx_downloaded_hash_verified_and_extracted",
+      "notes": "مصدر منفصل عن السراج؛ تطابق MD5 وSHA1 المحليين مع القيم المنشورة في بوابة المطورين. استخرجت السجلات دون تغيير النص، وربط 811 لفظًا غير محسوم بموضع كلمة محدد تُرك للمراجعة."
+    }
+  ],
+  "verificationLimits": [
+    "مطابقة SHA-256 لخط الأساس تثبت ثبات الملف مقارنة بنسخة المرحلة الثانية فقط، ولا تثبت مطابقته لمصدر خارجي.",
+    "التحقق البنيوي من أعداد السور والآيات والحقول والمواضع لا يثبت صحة النص أو المعاني.",
+    "نص data.js ومعاني السراج لم تُقارن بمرجع خارجي. حزمة الميسّر طابقت بصماتها المنشورة واستخرجت كما هي؛ لم تُراجع صحة الشروح دلاليًا، كما لم يُحسم ربط 811 سجلًا بموضع كلمة."
+  ]
+}

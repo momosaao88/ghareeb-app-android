@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover">
+<title>المصحف مع غريب القرآن (السراج)</title>
+<meta name="description" content="المصحف الشريف برواية حفص مع معاني غريب القرآن من كتاب السراج">
+<meta name="theme-color" content="#1f5e46">
+<meta name="color-scheme" content="light dark">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="غريب القرآن">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="preload" href="fonts/HafsSmart.ttf" as="font" crossorigin>
+<link rel="stylesheet" href="styles.css">
+<script>document.documentElement.classList.add('nf');try{var t=JSON.parse(localStorage.getItem('theme'));document.documentElement.dataset.theme=t||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')}catch(e){}</script>
+</head><body>
+<header id="bar">
+<button id="mn" aria-label="الفهرس">☰</button>
+<div id="ttl" aria-live="polite" aria-label="موضع القراءة والكتاب المختار">المصحف</div>
+<button id="au" aria-label="استماع">🎧</button>
+<button id="sr" aria-label="بحث">🔍</button>
+<button id="th" aria-label="الوضع الليلي">🌓</button>
+</header>
+<main id="m"><div id="view"></div>
+<footer>نص القرآن والخط: مجمع الملك فهد لطباعة المصحف الشريف (الرسم العثماني، حفص، الإصدار 8).<br>المعاني: «السراج في بيان غريب القرآن»، محمد بن عبد العزيز الخضيري (نسخة المكتبة الشاملة)، و«الميسّر في غريب القرآن الكريم» من حزمة المطورين الرسمية للمجمع.<br><a href="privacy.html">سياسة الخصوصية</a></footer></main>
+<div id="ov" hidden></div>
+<aside id="panel" aria-label="القائمة"><nav id="tabs"></nav><div id="pb"></div></aside>
+<div id="sheet" role="dialog"></div>
+<div id="player" hidden><div id="pl-t" aria-live="polite"></div><div class="pc"><button id="pv" aria-label="الآية السابقة">⏮</button><button id="pt" aria-label="إيقاف أو متابعة التشغيل" aria-pressed="false">▶</button><button id="pn2" aria-label="الآية التالية">⏭</button><button id="pl-loop" aria-label="تكرار الآية" aria-pressed="false">↻</button><select id="pr" aria-label="القارئ"></select><label>السرعة<select id="p-speed"><option value="0.75">٠٫٧٥×</option><option value="1">١×</option><option value="1.25">١٫٢٥×</option><option value="1.5">١٫٥×</option></select></label><label>التكرار<select id="p-repeat"><option value="1">١</option><option value="2">٢</option><option value="3">٣</option><option value="5">٥</option><option value="10">١٠</option></select></label><label>من آية<input id="p-start" type="number" min="1" inputmode="numeric"></label><label>إلى آية<input id="p-end" type="number" min="1" inputmode="numeric"></label><button id="p-range">تشغيل النطاق</button><button id="pdl" aria-label="تنزيل تلاوة السورة">⬇</button><button id="px" aria-label="إغلاق مشغل الصوت">✕</button></div></div>
+<noscript>يحتاج التطبيق إلى تفعيل JavaScript.</noscript>
+<script type="module" src="scripts/modules/bootstrap.js"></script>
+</body></html>

@@ -1,0 +1,30 @@
+{
+  "name": "gharib-quran-siraj",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "validate:data": "node scripts/validate-data.js",
+    "report:provenance": "node scripts/provenance-report.js",
+    "import:muyassar": "python scripts/import_muyassar.py",
+    "www": "node scripts/build-www.js",
+    "sync": "node scripts/build-www.js && npx cap sync android",
+    "open": "npx cap open android",
+    "assets": "npx capacitor-assets generate --android",
+    "native": "npm install"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.5.3",
+    "@capacitor/app": "8.1.2",
+    "@capacitor/core": "8.5.3",
+    "@capacitor/filesystem": "8.1.4",
+    "@capacitor/haptics": "8.0.2",
+    "@capacitor/local-notifications": "8.3.1",
+    "@capacitor/share": "8.0.1",
+    "@capacitor/status-bar": "8.0.4"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "3.0.5",
+    "@capacitor/cli": "8.5.3"
+  }
+}
