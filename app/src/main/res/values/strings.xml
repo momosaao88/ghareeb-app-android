@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">غريب القرآن</string>
+    <string name="title_activity_main">غريب القرآن</string>
+    <string name="package_name">com.mohamed.ghareebquran</string>
+    <string name="custom_url_scheme">com.mohamed.ghareebquran</string>
+    <string name="audio_player_service_description">السماح بتشغيل التلاوات في الخلفية</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup disableIfNoEncryptionCapabilities="false">
+        <!-- WebView IndexedDB contains downloaded recitations; do not copy it to cloud backup. -->
+        <exclude domain="root" path="app_webview" />
+    </cloud-backup>
+    <device-transfer>
+        <!-- Keep the same local-only policy during device-to-device transfer. -->
+        <exclude domain="root" path="app_webview" />
+    </device-transfer>
+</data-extraction-rules>
